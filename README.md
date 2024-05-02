@@ -1,6 +1,5 @@
 ### Oie!! Podem me chamar de Lari. 
 
-- 🏳️‍⚧️ Pessoa Trans não binária
 - 🎓 Formação em Matemática, pela Universidade Estadual da Bahia
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas
 - 🎯 Entusiasta de desenvolvimento Mobile e Backend
